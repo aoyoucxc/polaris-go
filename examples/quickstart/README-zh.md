@@ -26,7 +26,7 @@ go build -o provider
 ```
 - windows构建命令
 ```
-cd ./consumer
+cd ./provider
 go build -o provider.exe
 ```
 
